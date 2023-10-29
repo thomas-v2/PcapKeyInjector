@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="PcapKeyInjector.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="PathToEditcap" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\Program Files\Wireshark\editcap.exe</Value>
+    </Setting>
+    <Setting Name="OutputFilenamePattern" Type="System.String" Scope="User">
+      <Value Profile="(Default)">{1}_withKey</Value>
+    </Setting>
+    <Setting Name="OutputDirectory" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\temp</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
